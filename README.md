@@ -1,4 +1,5 @@
-[![](https://jitpack.io/#Kobanister/ViewBindingAnnotations.svg)](https://jitpack.io/#Kobanister/ViewBindingAnnotations)
+[![](https://jitpack.io/v/Kobanister/ViewBindingAnnotations.svg)](https://jitpack.io/#Kobanister/ViewBindingAnnotations)
+
 
 # ViewBindingAnnotations
 
