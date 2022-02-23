@@ -123,7 +123,7 @@ class MainFragment : BaseFragment<FragmentMainBinding>() {}
 
 ## Honorable mentions
 
-Many thanks to @aengussong for helping me out :hugs:
+Many thanks to [@aengussong](https://github.com/aengussong) for helping me out :hugs:
 
 
 # License
