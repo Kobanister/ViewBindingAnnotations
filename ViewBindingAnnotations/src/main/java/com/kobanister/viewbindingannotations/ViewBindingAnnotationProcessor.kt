@@ -93,6 +93,7 @@ class ViewBindingAnnotationProcessor : AbstractProcessor() {
             .build()
 
         FileSpec.builder("factory", FACTORY_NAME)
+            .addAnnotation(AnnotationSpec.builder(Suppress::class).addMember("\"ktlint\"").build())
             .addType(typeSpec)
             .build()
             .writeTo(File(kaptKotlinGeneratedDir))
